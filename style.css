@@ -216,6 +216,7 @@ footer {
 }
 footer .wrap { display: flex; flex-wrap: wrap; gap: 6px 24px; justify-content: space-between; }
 footer p { margin: 0; }
+footer .credits { flex-basis: 100%; font-size: .8rem; opacity: .8; }
 
 /* ---------- Datenschutzseite ---------- */
 
